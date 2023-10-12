@@ -43,7 +43,7 @@ The model's performance is evaluated using the Mean Squared Error (MSE) metric. 
 
 ## Contributors
 
-- **KumaR Shivam** - [GitHub]([insert_github_url_here](https://github.com/imalurker))
+- **Praveen** - [GitHub](https://github.com/imalurker)
 
 Acknowledgment:
 
